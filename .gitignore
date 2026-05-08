@@ -1,0 +1,20 @@
+# IDE
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project Specific
+portfolio-cms/venv/
+portfolio-cms/db.sqlite3
+portfolio-cms/.env
+portfolio-cms/staticfiles/
+portfolio-cms/media/
+portfolio-cms/set_password.py
